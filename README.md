@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9D1C4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Lourenço!;I'm+20+years+old;I+from+Brazil;I+study+systems+information;this+is+the+space+where+I+share+my+studies;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9D1C4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Lourenço!!!;I'm+20+years+old;I+from+Brazil;I+study+systems+information;this+is+the+space+where+I+share+my+studies;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ognusg&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=D9D1C4&text_color=D9D1C4&bg_color=0d1117" alt="Gabriel Lourenço github stats" /> 
